@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "SWEET MEMORIES",
+  "base_artist": "幾田りら",
+  "createdAt": "2026-01-04T06:13:09.580885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Memories",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/01_Sweet_Memories_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SWEET MEMORIES",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/02_SWEET_MEMORIES_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SWEET MEMORIES (Matsuda Seiko)",
+      "artist": "Koda Kumi",
+      "has_synced": true,
+      "path": "select/03_SWEET_MEMORIES_(Matsuda_Seiko)_Koda_Kumi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Memories",
+      "artist": "Andy Williams",
+      "has_synced": false,
+      "path": "select/04_Sweet_Memories_Andy_Williams.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Memories",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/05_Sweet_Memories_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Memories",
+      "artist": "Willie Nelson feat. Merle Haggard & Ray Price",
+      "has_synced": false,
+      "path": "select/06_Sweet_Memories_Willie_Nelson_feat._Merle_Haggard_&_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet Memories",
+      "artist": "Willie Nelson, Merle Haggard & Ray Price",
+      "has_synced": false,
+      "path": "select/07_Sweet_Memories_Willie_Nelson,_Merle_Haggard_&_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Silver Medals And Sweet Memories",
+      "artist": "The Statler Brothers",
+      "has_synced": false,
+      "path": "select/08_Silver_Medals_And_Sweet_Memories_The_Statler_Brothers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(After Sweet Memories) Play Born to Lose Again",
+      "artist": "Ronnie Milsap",
+      "has_synced": false,
+      "path": "select/09_(After_Sweet_Memories)_Play_Born_to_Lose_Again_Ronnie_Milsap.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet Memories",
+      "artist": "Sacred Warrior",
+      "has_synced": false,
+      "path": "select/10_Sweet_Memories_Sacred_Warrior.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "03 Sweet Memories",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/11_03_Sweet_Memories_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SWEET MEMORIES",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/12_SWEET_MEMORIES_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet Memories (New Version)",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/13_Sweet_Memories_(New_Version)_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SWEET MEMORIES",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/14_SWEET_MEMORIES_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SWEET MEMORIES",
+      "artist": "幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_SWEET_MEMORIES_幾田りら.txt"
+    }
+  ]
+}
